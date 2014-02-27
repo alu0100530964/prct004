@@ -6,5 +6,5 @@ b = float(raw_input('Valor de b: '))
 a * x + b = 0
 print 'Solucion: ', x
 
-# Este programa no funciona porque esta puesto como una expresión lienal igualada a cero 
+# Este programa no funciona porque esta puesto como una expresión lineal igualada a cero 
 # SyntaxError: can't assign to operator
